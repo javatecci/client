@@ -87,8 +87,7 @@ class App extends React.Component{
 
           {!this.state.currentUser &&
             <nav className="navbar navbar-expand navbar-dark bg-dark">
-              <a className="navbar-brand" href="">
-                
+              <a className="navbar-brand" href="">       
                 Raising software solution
               </a>
               <div className="navbar-nav mr-auto">
